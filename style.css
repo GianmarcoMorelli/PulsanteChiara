@@ -1,0 +1,16 @@
+.buono{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(102, 156, 102);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 12px;
+    text-align: center;
+}
+
+.maiusc{
+    font-weight: bold ;
+}
